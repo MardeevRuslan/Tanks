@@ -12,7 +12,7 @@ The game "Tanks" allows players to control tanks and battle against each other i
 - WebSocket (for implementing multiplayer functionality)
 
 ## Installation and Running
-1. Clone the repository: `git clone [https://github.com/your/repository.git](https://github.com/MardeevRuslan/Tanks)`
+1. Clone the repository: `git clone https://github.com/MardeevRuslan/Tanks`
 2. Navigate to the project directory: `cd TanksServer`
 3. Build the project: `mvn clean install`
 4. Start the application.
